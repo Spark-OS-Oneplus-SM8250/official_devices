@@ -233,6 +233,13 @@
           "active": true
        },
        {
+          "codename": "lemonades",
+          "vendor": "OnePlus",
+          "model": "OnePlus 9R",
+          "maintainer_name": "zizzyboi",
+          "active": true
+       },
+       {
           "codename": "martini",
           "vendor": "OnePlus",
           "model": "OnePlus 9RT",
