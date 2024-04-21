@@ -2,8 +2,8 @@
     "maintainer": [
         {
             "display_name": "twinchin96",
-            "telegram": "",
-            "github": ""
+            "telegram": "https://t.me/zahidsromfactory",
+            "github": "https://github.com/Twinchin12"
         }
     ],
     "beta": false,
@@ -17,5 +17,5 @@
     "version": "fourteen",
     "active": true,
     "customRecoveryRequired": true,
-    "xda": null
+    "xda": "https://xdaforums.com/t/matrixxos-v10-2-1-official-for-nothing-phone-1-a14-january-nothing-cam-included-stable.4646969/"
 }
